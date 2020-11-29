@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myCalcDLL", "..\myCalcDLL\m
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myCalc", "myCalc\myCalc.csproj", "{2D99FDC4-72B7-45E9-A08B-253F1ED61749}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myPeopleDLL", "myPeopleDLL\myPeopleDLL.csproj", "{74A03DAD-A92D-4F09-9568-CF51C43E96EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2D99FDC4-72B7-45E9-A08B-253F1ED61749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D99FDC4-72B7-45E9-A08B-253F1ED61749}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D99FDC4-72B7-45E9-A08B-253F1ED61749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A03DAD-A92D-4F09-9568-CF51C43E96EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A03DAD-A92D-4F09-9568-CF51C43E96EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A03DAD-A92D-4F09-9568-CF51C43E96EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A03DAD-A92D-4F09-9568-CF51C43E96EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
