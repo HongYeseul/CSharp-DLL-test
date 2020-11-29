@@ -6,4 +6,14 @@
     <RootNamespace>CSharp_DLL_test</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\myCalc\myCalc.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="myCalcDLL">
+      <HintPath>..\..\myCalcDLL\myCalcDLL\bin\Debug\myCalcDLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
